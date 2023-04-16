@@ -2,6 +2,7 @@
 https://github.com/OxCGRT/covid-policy-tracker/tree/master/data/United%20States
 https://www.kaggle.com/code/imoore/covid-19-twitter-dataset-charts/input
 https://www.kaggle.com/code/ludovicocuoghi/twitter-sentiment-analysis-with-bert-roberta
+https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset
 
 # Presentation link
 
