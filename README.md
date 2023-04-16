@@ -1,3 +1,10 @@
 # 7102GP
 https://github.com/OxCGRT/covid-policy-tracker/tree/master/data/United%20States
 https://www.kaggle.com/code/imoore/covid-19-twitter-dataset-charts/input
+
+
+# Presentation link
+
+https://docs.google.com/presentation/d/1iy3KIwRswO2XuLWIzSiecRFvmeLg3EAaS6241pkIerY/edit?usp=sharing
+
+https://docs.google.com/presentation/d/1kDw2kis2kIaSI7hM6WnIdJAkpbAoNjgfkfkJBCxeqko/edit?usp=sharing
