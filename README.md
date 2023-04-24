@@ -14,3 +14,6 @@ https://docs.google.com/presentation/d/1kDw2kis2kIaSI7hM6WnIdJAkpbAoNjgfkfkJBCxe
 
 final
 https://docs.google.com/presentation/d/1vDQBok22bOguwaDtOsTNDmIFtqtxAvj-RU22dOt2RR4/edit?usp=sharing
+
+稿子
+https://docs.google.com/document/d/1FLsVV25USmJXQhoxpMzBeXVHtqD_U5-KxfFoXRIelTs/edit?usp=sharing
